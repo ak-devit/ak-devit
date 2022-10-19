@@ -43,13 +43,35 @@
 
  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ak-devit-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/andriykunitskyy)
+ - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ak-devit-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  
   
   
   
   
   
   ---
+  
+  ### :hammer_and_wrench: Tools and Languages:
+  
+  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx"  alt="Networkx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  </div>
+  
+  ---
+
+ ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ak-devit&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!---
 ak-devit/ak-devit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

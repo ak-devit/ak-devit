@@ -18,7 +18,7 @@
   </a>
 
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=andreylviv71&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ak-devit&style=flat-square&color=blue" alt=""/>
 
 <h1>
   hey there
@@ -37,11 +37,11 @@
   ### :man_technologist: About Me :
   I am a Linux System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
   
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ - :telescope: I work as a System Administrator and want to switch to DevOps.
 
- - :seedling: Exploring Technical Content Writing.
+ - :seedling: I am preparing for the exam AWS Cloud Practitioner.
 
- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ - :zap: In my free time, I watch IT videos and read technology articles.
 
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ak-devit-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   

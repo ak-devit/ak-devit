@@ -2,7 +2,7 @@
 - 🌱 Completed IOPS.SCHOOL DevOps Starters 1.0 courses
 - 👀 I’m interested in DevOps and Cloud technologies
 
-  ---
+ ---
   
 <div align="center">
   <img src="/sertificat.jpg?raw=true" width="500" height="300"/>

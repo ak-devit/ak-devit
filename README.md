@@ -5,7 +5,7 @@
    ---
   
   <div align="center">
-  <img src="/ak-devit/ak-devit/blob/main/sertificat.jpg?raw=true" width="600" height="300"/>
+  <img src="/blob/main/sertificat.jpg?raw=true" width="600" height="300"/>
 </div>
   
   ---

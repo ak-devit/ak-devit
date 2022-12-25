@@ -1,5 +1,5 @@
 - 👋 Hi there, I'am Andriy Kunitskyy
-- 🌱 I’m currently studying at IOPS SCHOOL DevOps Starters 1.0
+- 🌱 Completed IOPS.SCHOOL DevOps Starters 1.0 courses
 - 👀 I’m interested in DevOps and Cloud technologies
 
 <div id="header" align="center">

@@ -5,7 +5,7 @@
    ---
   
   <div align="center">
-  <img src="/sertificat.jpg?raw=true" width="600" height="300"/>
+  <img src="/sertificat.jpg?raw=true" width="500" height="300"/>
 </div>
   
   ---

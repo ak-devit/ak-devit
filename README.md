@@ -10,7 +10,7 @@
 <div align="center">
   <img src="/sertificat.jpg?raw=true" width="250" height="150"/>
  <img src="/cloud quest.png?raw=true" width="250" height="150"/>
- <img src="/sertificat.jpg?raw=true" width="250" height="150"/>
+ <img src="/udemy cert.png?raw=true" width="250" height="150"/>
 </div>
   
   ---

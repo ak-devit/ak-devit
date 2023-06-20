@@ -3,7 +3,7 @@
 - 👋 I'am Andriy Kunitskyy
 - 🌱 Completed IOPS.SCHOOL DevOps Starters 1.0 courses
 - 👀 I’m interested in DevOps and Cloud technologies
-- 📝 [Resume](https://rebrand.ly/AndriyKunitskyy84231b)
+- 📝 [Resume](https://rebrand.ly/AndriyKunitskyy9c7591)
 
  ---
   
